@@ -1,0 +1,32 @@
+[
+    {
+        "Nome": "Roberto",
+        "Eta": 35,
+        "Genere": "M",
+        "Stipendio": 3000.0
+    },
+    {
+        "Nome": "Giovanni",
+        "Eta": 30,
+        "Genere": "M",
+        "Stipendio": 4000.0
+    },
+    {
+        "Nome": "Michela",
+        "Eta": 27,
+        "Genere": "F",
+        "Stipendio": 4100.0
+    },
+    {
+        "Nome": "Pietro",
+        "Eta": 37,
+        "Genere": "M",
+        "Stipendio": 3500.0
+    },
+    {
+        "Nome": "Roberta",
+        "Eta": 31,
+        "Genere": "F",
+        "Stipendio": 8500.0
+    }
+]
