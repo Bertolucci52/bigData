@@ -7,6 +7,8 @@ spark = SparkSession.builder \
     .appName("Etivity3_SparkSQL") \
     .master("local[*]") \
     .getOrCreate()
+    
+spark.sparkContext.setLogLevel("ERROR")
 
 print("Versione di Spark:", spark.version)
 
